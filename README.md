@@ -1,0 +1,80 @@
+[免费服务列表](https://github.com/ldsink/free-services)
+===
+本列表收集**境内可用**，**完全免费**或**有限免费**的 SaaS, PaaS, BaaS 和 IaaS 的服务。
+欢迎提交 PR 更新本列表。
+
+- - -
+
+# Contents
+   * [Team Collaboration / Project Management](#team-collaboration--project-management)
+   * [CI / CD](#ci--cd)
+   * [CDN](#cdn)
+   * [DNS](#dns)
+   * [EMAIL](#email)
+   * [IDE](#ide)
+   * [Monitoring](#monitoring)
+   * [PaaS](#paas)
+   * [BaaS](#baas)
+   * [Security and PKI](#security-and-pki)
+   * [Source Code Repos](#source-code-repos)
+   * [Payment / Billing Integration](#payment--billing-integration)
+
+- - -
+
+## Team Collaboration / Project Management
+ * [Tower](http://tower.im) - 以简单、好用著称的团队在线协作系统，提供任务指派、在线讨论、文档协作、日程安排、周报管理等功能。基础功能免费，高级功能（API 接口、数据统计、视频会议等）收费。
+ * [Github](https://github.com/) - GitHub brings together the world’s largest community of developers to discover, share, and build better software.
+ * [Gitlab](https://gitlab.com/) - GitLab.com offers free unlimited (private) repositories and unlimited collaborators.
+ * [码云](https://gitee.com/) - 云端软件开发协作平台， 帮助个人、团队、企业轻松实现 Git/SVN 代码托管、协作开发。
+ * [Teambition](https://www.teambition.com) - 免费版有 20 个项目额度，每个项目不限制人数。
+ * [语雀](https://www.yuque.com/) - 优雅高效的在线文档编辑与协同工具。
+ * [腾讯文档](https://docs.qq.com/) - 可多人协作的在线文档。
+ * [瀑布IM](https://pubu.im) - 免费的团队线上即时沟通服务，可以整合各种 SaaS 服务和接收通知，让团队和远程沟通更有效。
+ * [石墨](https://shimo.im) - 免费的在线实时协作文档服务，界面简单清晰，多人协同编辑，可以讨论和查看变更。
+ * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
+ * [Bearychat](https://bearychat.com) - 免费的在线团队沟通工具，免费版提供最多 500 位团队成员的实时沟通。
+
+## CI / CD
+ * [DaoCloud](http://daocloud.io) - 提供 2 个容器
+ * [灵雀云](http://www.alauda.cn) - 用户可以每月领取约￥28 以运行一个免费的 XS 实例
+
+## CDN
+ * [加速乐](http://www.jiasule.com) - 免费版提供有限免费加速防黑服务
+ * [百度云加速](http://su.baidu.com) - 免费版提供有限免费加速防黑服务
+ * [七牛](http://www.qiniu.com) - 10GB永久免费存储空间; 每月10GB下载流量
+
+## DNS
+ * [DNSPod](https://www.dnspod.cn/) - 免费版提供免费 DNS 解析服务
+ * [万网云解析](http://wanwang.aliyun.com/domain/dns/) - 提供免费 DNS 解析服务
+
+## Email
+ * [网易企业邮](http://ym.163.com) - 免费版提供有限免费自定义域名邮箱服务
+ * [SendCloud](http://sendcloud.sohu.com) - 免费用户享有200封/天的发送额度，通过开发者认证后享有1000/天的发送额度
+ * [腾讯域名邮箱](http://domain.mail.qq.com) - 免费的域名邮箱服务，最多100个相同域名的帐号
+ * [腾讯企业邮](https://exmail.qq.com/) - 免费版提供50人上限的企业邮件服务
+
+## IDE
+ * [Coding WebIDE](https://ide.coding.net) - 提供 3 个永久免费的 Workspaces
+
+## Monitoring
+ * [OneAPM](http://www.oneapm.com/) - 免费版可以存储3天的应用性能监控数据，涵盖服务器，客户端，浏览器，云服务等。
+
+## PaaS
+ * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
+ * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
+
+## BaaS
+ * [LeanCloud](https://leancloud.cn) -
+针对开发者和初期产品基本免费，提供移动应用云端数据存储，消息推送，应用内统计和实时通信。
+
+## Security and PKI
+ * [ScanV](https://scanv.yunaq.com/) - 免费版提供有限的 API 接口
+
+## Source Code Repos
+ * [Github](https://github.com/) - GitHub brings together the world’s largest community of developers to discover, share, and build better software.
+ * [Gitlab](https://gitlab.com/) - GitLab.com offers free unlimited (private) repositories and unlimited collaborators.
+ * [码云](https://gitee.com/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
+ * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
+
+## Payment / Billing Integration
+ * [Ping++](https://pingxx.com/) - 轻便高效的聚合支付模块，支持微信、支付宝、银联等主流支付渠道。每月前十万笔成功交易免费，超出部分 0.01元/笔。
